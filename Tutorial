@@ -1,0 +1,16 @@
+1. Follow the prompts: Larendon will guide you step by step, asking for the necessary information:
+
+Folder Name: Provide the name of the folder where you want to create your plugin's structure.
+Plugin Information: You'll be asked for the plugin's display name, author, and artifact ID (used in Maven).
+
+2. Confirm starter file creation: Larendon will ask if you want to generate the basic folder structure (src/main/java/..., src/main/resources) and source files (plugin.yml, main Java class). Enter Yes or No.
+
+3. Finish: Once the process is complete, press Enter to close the terminal.
+
+Now, in the folder you specified at the beginning (e.g., MyAwesomePlugin), you'll find the complete project structure ready for you to start coding your plugin. Open this folder in your favorite IDE (e.g., IntelliJ IDEA, Eclipse) and begin creating amazing features!
+
+4. Expand the packages in src/main/java/... and start writing your code in the main plugin class (the name will correspond to what you entered as "plugin name" in CamelCase).
+
+
+
+
